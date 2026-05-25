@@ -12,3 +12,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FernandoFStack/FernandoFStack/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/FernandoFStack/FernandoFStack/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div style="flex-shrink: 0; width: 150px; text-align: center;">
+    <img 
+      src="171450.gif" 
+      alt="Lain Iwakura" 
+      style="width: 30%; border-radius: 10px; border: 2px solid #30363d;"
+    />
+  </div>
