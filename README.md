@@ -11,6 +11,11 @@
         while also expanding my skills in core web development with <strong>JavaScript, HTML, and CSS</strong>. 
         My goal is to build a solid foundation to take on international software development challenges.
       </p>
+      <p style="margin-top: 15px;">
+        <a href="https://www.codewars.com/users/FernandoFStack">
+          <img src="https://www.codewars.com/users/FernandoFStack/badges/large" alt="Codewars Badge"/>
+        </a>
+      </p>
     </td>
     <td valign="top" width="180">
       <img src="171450.gif" alt="Lain Iwakura" width="180" style="border-radius: 10px; border: 2px solid #30363d; display: block;"/>
